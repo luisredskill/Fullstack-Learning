@@ -12,4 +12,4 @@ alt + seta pra cima  = move os elementos selecionados
 
 div.banner = cria uma div com a tag banner
 
-div#banner = cria uma div com id banner
+div#banner = cria uma div com id banner.
