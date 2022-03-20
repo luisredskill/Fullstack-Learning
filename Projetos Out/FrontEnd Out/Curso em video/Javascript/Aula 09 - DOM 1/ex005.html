@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comendo o cu do Dom</title>
+    <style>
+        body{
+            background: rgb(13, 122, 37);
+            color:burlywood;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Iniciando estudos com DOM</h1>
+    <p>aqui vai o resultado</p>
+    <p>Aprendendo a usar a <strong>DOM</strong> em JavaScript.</p>
+<div id="msg">clique em mim</div>
+    <script>
+        
+var p1 = window.document.getElementsByTagName (`p`)[1]
+window.document.write(`Esta escrito assim:` + p1.innerHTML)
+p1.style.color = `blue`
+/*
+var d = window.document.getElementById('msg')
+d.style.background = 'black'
+d.innerText = 'Estou aguardando...'
+faz a msm coisa que as duas linhas de cima - window.document.getElementById("msg").innerText = 'Olá!'*/
+//var d = document.getElementsByName(`msg`)[0]
+//d.innerText = `Ola`
+var d = document.querySelector(`div#msg`) //# se usa com ID e . se usa com classe
+d.style.background = `blue` 
+    </script>
+</body>
+</html>

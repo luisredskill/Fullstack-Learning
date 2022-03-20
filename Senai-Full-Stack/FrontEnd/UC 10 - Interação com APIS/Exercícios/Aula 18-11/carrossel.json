@@ -1,0 +1,24 @@
+{
+    "carrossel": [
+        {
+            "titulo": "jogo 1",
+            "preco": "R$ 249,00",
+            "id": 1
+        },
+        {
+            "titulo": "jogo 2",
+            "preco": "R$ 199,00",
+            "id": 2
+        },
+        {
+            "titulo": "jogo 3",
+            "preco": "R$ 159,00",
+            "id": 3
+        },
+        {
+            "titulo": "jogo 4",
+            "preco": "R$ 119,00",
+            "id": 4
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\backend\UC012 - Codificacao para backend\Cadastro Pessoa\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 4\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\backend\UC012 - Codificacao para backend\ER 4\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\backend\UC012 - Codificacao para backend\ER 4\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\backend\UC012 - Codificacao para backend\ER 4\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 4\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\backend\UC012 - Codificacao para backend\ER 4\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\backend\UC012 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\backend\UC012 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\backend\UC012 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\backend\UC012 - Codificacao para backend\ER 5\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\ER 5\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 5 - Calcular Imposto\obj\Debug\net6.0\ref\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\bin\Debug\net6.0\Cadastro Pessoa.exe
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\bin\Debug\net6.0\Cadastro Pessoa.deps.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\bin\Debug\net6.0\Cadastro Pessoa.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\bin\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\bin\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\refint\Cadastro Pessoa.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\Cadastro Pessoa.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulas\ER 7 - Calcular Imposto - Copia\obj\Debug\net6.0\ref\Cadastro Pessoa.dll

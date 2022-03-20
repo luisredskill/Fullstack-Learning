@@ -1,0 +1,22 @@
+
+
+<!-- <app-header> chama o elemento que tem o seletor app header-->
+
+<form #userForm="ngForm" (ngSubmit) ="onSubmit()"> 
+    <label for="email">Email: </label>
+    <input type="email" id="email" name="email"  [(ngModel)] ="userModel.email"> 
+    <label for="senha">Senha: </label>
+    <input type="password" id ="senha" > 
+    <button type = "submit">Enviar</button>
+</form>
+
+<a routerLink="sobre">link para sobre</a>
+<a routerLink="contato">link para contato</a>
+
+<!-- nomeia o form como #userForm assim o programa pode trabalhar com o nome do form-->
+<!-- (ngSubmit) cria uma chamada de funcao parecida com o "onsubmit" do html sem angular-->
+<!-- ngModel - informa ao angular que este e um atributo de model-->
+<!-- [ngModel] ="userModel.email"> - linka o modelo ao objeto criado no arquivo home.component.ts (userModel)-->
+<!-- name = "email" - e a informacao que sera atribuida ao input, ou seja vira com o nome descrito dentro de name"" -->
+<!-- ngModel - informa ao angular que este e um atributo de model-->
+<!-- ng generate class models/User  -  gera uma nova classe, criando a pasta models e o arquivo user.ts e user.spec.ts-->

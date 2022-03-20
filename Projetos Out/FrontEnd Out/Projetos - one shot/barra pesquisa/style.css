@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(#79e4a6,#1bc296);
+}
+
+.searchbox{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 40px;
+    padding: 10px;
+    border-radius: 40px;
+    background: rgb(75, 160, 86);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-txt{
+    border:none;
+    background:none;
+    outline:none;
+}

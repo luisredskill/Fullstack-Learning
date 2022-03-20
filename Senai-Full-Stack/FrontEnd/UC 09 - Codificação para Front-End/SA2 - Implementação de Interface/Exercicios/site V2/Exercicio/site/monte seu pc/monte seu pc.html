@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="monte seu pc.css">
+</head>
+
+<body>
+    <!------------------------------cabeçalho------------------------------>
+    <header>
+        <div class="header grid sbc">
+            <div>
+                <a href="../index.html"><img src="../img/menu superior/logo.png" alt="Logo da ggwp"></a>
+            </div>
+            <!--logo ggwp-->
+            <div id="barra_pesquisa" class="sec">
+                <!--barra de pesquisa-->
+                <input type="text" placeholder="Pesquisar..." id="txtbarra">
+                <img onclick="Pesquisar()" src="../img/menu superior/busca.png" alt="botao de pesquisa">
+            </div>
+            <div class="sbc">
+                <!-- area de login-->
+
+                <a href="../cadastro/cadastro.html"><img src="../img/menu superior/Logon-icon.png"
+                        alt="ícone de usuário"></a>
+
+
+                <a href="../cadastro/cadastro.html" class="alin"><img src="../img/menu superior/Login.png"
+                        alt="botão de login"></a>
+
+
+                <a href="../cadastro/cadastro.html" class="alin"><img src="../img/menu superior/cadastre-se.png"
+                        alt="botão de cadastro"></a>
+
+            </div>
+            <div class="df">
+                <a href="#"><img src="../img/menu superior/Coração.png" alt="favoritos"></a><!-- favoritos e carrinho-->
+                <a href="#"><img src="../img/menu superior/Carrinho de compras.png" alt="carrinho de compras"></a>
+            </div>
+        </div>
+        <div class="dep df">
+            <!-- menu inferior-->
+            <nav class="grid sbc">
+                <a href="#" class="depa">
+                    <h2 id="txtdep">Departamentos</h2>
+                </a>
+                <a href="#" class="depa">
+                    <h2 id="txtdep">Destaques</h2>
+                </a>
+                <a href="../monte seu pc/monte seu pc.html" class="depa">
+                    <h2 id="txtdep">PC Gamer</h2>
+                </a>
+                <a href="#" class="depa">
+                    <h2 id="txtdep">Descubra um jogo</h2>
+                </a>
+                <a href="../quemsomos/quemsomos.html" class="depa">
+                    <h2 id="txtdep">Sobre nós</h2>
+                </a>
+            </nav>
+        </div>
+    </header>
+    <!-- Produto -->
+    <div class="mundogamer df grid">
+        <a class="mundo">Mundo Gamer</a>
+        <p>></p>
+        <a class="mundo">Monte seu PC</a>
+    </div>
+    <section class="monte_seu_pc grid">
+        <div class="row">
+            <div class="col-lg-3">
+                <h1>Peça</h1>
+            </div>
+            <div class="col-lg-6">
+                <h1>Selecionado</h1>
+            </div>
+            <div class="col-lg-3">
+                <h1>Preço</h1>
+            </div>
+        </div>
+        <div class="row sizing ccc">
+            <div class="col-lg-3">
+                <p>Processador</p>
+            </div>
+            <div class="col-lg-6 cc">
+                <img src="img/processador-intel-core-i7-7740x-bx80677i77740x-fe972v-L.jpg" id="processador" alt="">
+                <p id="p">Intel Core i7-7740X 4.3 GHz Quad Core</p>
+            </div>
+            <div class="col-lg-3">
+                <p>R$ 2.500,00</p>
+            </div>
+        </div>
+        <div class="row sizing">
+            <div class="col-lg-3 alinhamento6">
+                <p >Placa de vídeo</p>
+            </div>
+            <div class="col-lg-6 alinhamento7">
+                <div id="placa" onclick="hide()" class="p2 ccc ">Selecionar Placa de Video</div>
+                <div class="lista5">
+                    <ul id ="lista5">
+                        <a href="#" class = "text-decoration"><li onclick="show1()" >RTX2060</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show2()">RTX2070</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show3()">RTX2080</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show4()">RTX3060</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show5()">RTX3070</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show6()">RTX3080</li></a>
+                        <a href="#" class = "text-decoration"><li onclick="show7()">RTX3090</li></a>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <p>-----</p>
+            </div>
+        </div>
+        <div class="row sizing ccc">
+            <div class="col-lg-3">
+                <p>Placa mãe</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="p2 ccc">Selecionar Placa de Mãe</div>
+            </div>
+            <div class="col-lg-3">
+                <p>-----</p>
+            </div>
+        </div>
+        <div class="row sizing ccc">
+            <div class="col-lg-3">
+                <p>Memória RAM</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="p2 ccc">Selecionar Memória</div>
+            </div>
+            <div class="col-lg-3">
+                <p>-----</p>
+            </div>
+        </div>
+        <div class="row sizing ccc">
+            <div class="col-lg-3">
+                <p>Fonte</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="p2 ccc">Selecionar Fonte</div>
+            </div>
+            <div class="col-lg-3">
+                <p>-----</p>
+            </div>
+        </div>
+        <div class="row sizing ccc">
+            <div class="col-lg-3">
+                <p>Gabinete</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="p2 ccc">Selecionar Gabinete</div>
+            </div>
+            <div class="col-lg-3">
+                <p>-----</p>
+            </div>
+        </div>
+        <div class="row gg ccc">
+            <div class="col-lg-7"></div>
+            <div class="col-lg-2">
+                <div class="">
+                    <h1>Total</h1>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <p>R$ 2.500,00</p>
+            </div>
+        </div>
+
+
+    </section>
+    <section class="rodape">
+        <div class="container5 grid df">
+            <!--container do rodape-->
+            <div class="esquerdarodape df">
+                <!-- container da esquerda do rodape-->
+                <div class="esquerdarodape-txt -df">
+                    <p class="rodape-titulo">Lorem ipsum dolor</p>
+                    <img class="todas_as_linhas" src="img/section 5/todas as  linhas.png" alt="">
+                    <p class="rodape-links">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                </div>
+                <div class="esquerdarodape-txt -df">
+                    <p class="rodape-titulo">Lorem ipsum dolor</p>
+                    <img class="todas_as_linhas" src="img/section 5/todas as  linhas.png" alt="">
+                    <p class="rodape-links">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                </div>
+                <div class="esquerdarodape-txt -df">
+                    <p class="rodape-titulo">Lorem ipsum dolor</p>
+                    <img class="todas_as_linhas" src="img/section 5/todas as  linhas.png" alt="">
+                    <p class="rodape-links">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                </div>
+                <div class="esquerdarodape-txt -df">
+                    <p class="rodape-titulo">Lorem ipsum dolor</p>
+                    <img class="todas_as_linhas" src="img/section 5/todas as  linhas.png" alt="">
+                    <p class="rodape-links">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                    <p class="rodape-link">Lorem ipsum</p>
+                </div>
+            </div>
+            <div class="colunadivisora">
+                <img src="img/section 5/coluna divisora.png" alt="">
+            </div>
+            <div class="direitarodape">
+                <!--container da direita do rodape-->
+                <div class="newsletter -ccc">
+                    <div class="titulonewsletter ccc">
+                        <!-- superior-->
+                        <p id="newsletter">Newsletter</p>
+                        <img src="img/section 5/vertical.png" alt="">
+                        <p>Receba ofertas exclusivas no seu e-mail!</p>
+                    </div>
+                    <form action="" class="newsletterinput ccc">
+                        <input type="email" placeholder="digite seu e-mail!" id="newsletterinput" required>
+                        <button id="botao_cadastrar" onclick="enviarEmail()">Cadastrar</button>
+                    </form>
+                    <div class="sac-redes sec">
+                        <!-- inferior-->
+                        <div class="sac">
+                            <!--esquerda-->
+                            <div class="fsc">
+                                <p class="sacgg">Sac</p>
+                                <img src="img/section 5/vertical.png" alt="">
+                                <p class="sac1">StoreSac@email.com</p>
+                            </div>
+                            <div class="fsc">
+                                <p class="sacgg">Telefone</p>
+                                <img src="img/section 5/vertical.png" alt="">
+                                <p class="sac1">(12)3456-7890</p>
+                            </div>
+                            <div class="fsc">
+                                <p class="sacgg">E-mail</p>
+                                <img src="img/section 5/vertical.png" alt="">
+                                <p class="sac1">Store@email.com</p>
+                            </div>
+                        </div>
+                        <div class="redes">
+                            <!-- direita-->
+                            <p>Siga nossas redes sociais!</p>
+                            <div class="redessociais sbc">
+                                <a href="#"><img src="img/section 5/insta.png" alt=""></a>
+                                <a href="#"><img src="img/section 5/facebook.png" alt=""></a>
+                                <a href="#"><img src="img/section 5/youtube.png" alt=""></a>
+                                <a href="#"><img src="img/section 5/twitter.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <script src="monte seu pc.js"></script>
+</body>
+
+</html>

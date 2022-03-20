@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap'); /* importa fontes do google fonts pelo link @import*/
+*{         /* "*" é usado para editar todos os elementos presentes no html  */
+margin: 0;
+padding: 0;
+box-sizing: border-box; /* garante que as medidas de altura e largura de um elementoo vao ser seguidas - sempre matem os elementos dentro da caixa criada*/
+/*content box e a configuracao base e ela acompanha o padding e aumenta o tamanhos dos elementos*/
+}
+
+body{
+    font-family: "Open Sans";
+    font-weight: 500;
+}
+
+header{
+    background-color: #121212;
+    margin-left: 0px;
+    height: 90px;
+}
+
+.containergrid{
+width: 1400px;
+margin:0 auto; /* primeiro valor e a margem vertical e o segundo a horizontal*/ /* auto deixa a mesma medida de margem pra direita e pra esquerda*/
+
+}
+.posicionamento{
+    height: 100%; /*diz que essa div vai ter 100% da altura do elemento pai <header>*/
+    display:flex;
+    justify-content: space-between; /* distribui o espacamento e encosta os elementos nas laterais*/
+    /*flex-direction troca a direcao do flex espacando os elementos de forma vertical*/
+    align-items: center;
+}
+
+.area_de_login{
+    display: flex;
+    width: 260px;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.buscador{
+    height: 40px;
+    width: 550px;
+    border-radius: 15px;
+    background-color: #F5F0F5 ;
+    display: flex;
+    
+}
+
+
+#texto{
+   width: 80%;
+   height: 80%;
+   display: flex;
+   margin:auto;
+   margin-top: 5px;
+   border:none;
+   outline: none;
+   background: none;
+}
+
+#btn{
+cursor: pointer;
+}
+
+.botoes_login{
+    margin: auto;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    width: 1400px;
+    height: 30px;
+}
+
+.containerdepartamentos{
+    height: 30px;
+    margin-left: 0px;
+    background-color: #0D25BD;
+}
+
+.menu a { /*seleciona uma classe e apenas os elementos especificos dentro dela, no caso, os elementos a*/
+color: azure; /* muda a cor da fonte*/
+text-decoration: none; /* retira os sublinhados */
+text-transform: uppercase; /*deixa a letra em maiuscula*/
+font-family: "Open Sans"; /* seleciona a fonte*/
+font-size: 20px;
+}
+
+body {
+    background-color: #00C1F7;
+}
+
+.banner{
+    background-image: url(../img/Prancheta_8.png);
+    height: 450px;
+    width: 1400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.itens_do_banner{
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.texto-banner{
+    width: 400px;
+    text-align: center;
+}
+
+.

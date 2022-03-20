@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(240, 195, 195);
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;   
+}
+
+.carrossel{
+    margin-top: 50px;
+    box-shadow: 2px 2px 4px black;
+    overflow: hidden;
+    height: 360px;
+    width: 950px;
+    background-color: rgb(235, 17, 17);
+    
+}
+
+.container{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    transform: translateX(0)
+  
+
+}
+
+.produto {
+    padding: 10px;
+    
+}
+
+.setaesquerda{
+   transform: rotate(180deg);
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  background-image: url(img/right-arrow.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.setadireita{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    background-image: url(img/right-arrow.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+ }
+ 
+

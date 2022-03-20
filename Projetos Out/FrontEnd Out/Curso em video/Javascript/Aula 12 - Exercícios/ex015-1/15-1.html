@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>15-1</title>
+    <link rel="stylesheet" href="15-1.css">
+</head>
+
+<body>
+    <header>
+        <h1>Verificador de Idade</h1>
+    </header>
+    <section>
+        <div id="inp">
+            Nome: <input type="text" id="txtnome" minlength="3">
+            <p id = "p0">
+                Ano de nascimento: <input type="number" id="txtnasc" min="1">
+            </p>
+            <p>
+                <input type="radio" name="sex" id="mas" checked>
+                <label for="mas">Masculino</label>
+                <input type="radio" name="sex" id="fem">
+                <label for="fem">Feminino</label>
+                <input type="button" value="Verificar" onclick="Verificar()">
+            </p>
+        </div>
+        <div id="img">
+            <img src="adultohomem.png" alt="" id="foto">
+        </div>
+        <div id="res">
+            Preencha os dados acima para ver o resultado
+        </div>
+    </section>
+
+    <footer>
+        <script src="15-1.js"></script>
+    </footer>
+
+</html>

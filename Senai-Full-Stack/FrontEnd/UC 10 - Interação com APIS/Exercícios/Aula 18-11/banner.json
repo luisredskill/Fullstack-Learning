@@ -1,0 +1,37 @@
+{
+    "banner": [
+        {
+            "titulo": "JOGO 1",
+            "preco": "R$ 249,00",
+            "id": 1
+        },
+        {
+            "titulo": "JOGO 2",
+            "preco": "R$ 199,00",
+            "id": 2
+        },
+        {
+            "titulo": "JOGO 3",
+            "preco": "R$ 159,00",
+            "id": 3
+        },
+        {
+            "titulo": "JOGO 4",
+            "preco": "R$ 119,00",
+            "id": 4
+        },
+        {
+            "titulo": "JOGO 5",
+            "preco": "R$ 99,00",
+            "id": 5
+        }
+    ],
+    "users": [
+        {
+          "email": "jklcw71@gmail.com",
+          "password": "$2a$10$TViZGW1dZyJvtzkfAiTgsOc.SrpM8i6gOjcz4zmWYZ0xkl4OVd5.W",
+          "id": 1
+        }
+      ]
+}
+

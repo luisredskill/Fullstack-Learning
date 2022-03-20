@@ -1,0 +1,15 @@
+ctrl + F2 = substitui todos os elementos que tem o nome igual no código depois de seleciona-los.
+
+ctrl + espaço = tras um texto com a explicação da opção selecionda (quando aparece a lista com várias opções de argumento)
+
+shift + alt + seta pra cima ou pra baixo = duplica a linha que voce esta para cima ou para baixo
+
+ctrl + espaco = sugestao de link
+
+ctrl + alt + seta pra direita = ele vai dividir a tela em dois arquivos permitindo trabalhar em ambos
+
+alt + seta pra cima  = move os elementos selecionados 
+
+div.banner = cria uma div com a tag banner
+
+div#banner = cria uma div com id banner

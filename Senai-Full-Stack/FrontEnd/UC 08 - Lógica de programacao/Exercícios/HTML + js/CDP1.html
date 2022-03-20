@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDP1</title>
+</head>
+
+<body>
+    <h1>CDP1</h1>
+    <input type="text" id="txtnome">
+    <input type="Number" id="txtpeso">
+    <input type="button" value="cadastrar" onclick="cadastrar()" id="button">
+    <div id="msg"></div>
+    <div id="lista"></div>
+    <script>
+        var nomes = []
+        var pesos = []
+        var msg = document.getElementById("msg")
+        var lista = document.getElementById("lista")
+        function cadastrar() {
+            var nome = document.getElementById("txtnome")
+            var nome1 = nome.value
+            var peso = document.getElementById("txtpeso")
+            var peso1 = Number(peso.value)
+            msg.innerHTML = `<p> Efetue o cadastro de novas peças acima. </p>`
+            if (nome1.length >= 4 && peso1 >= 100) {
+                msg.innerHTML = `<p> Peça cadastrada com sucesso </p>`
+                nomes.push(nome1)
+                pesos.push(peso1)
+                lista.innerHTML = `<h1>Lista de Peças</h1>`
+                function listadenomes(element, index, array) {
+                    lista.innerHTML += `<p> ${element} [${index + 1}] ${pesos[index]} </p>`
+                }
+                nomes.forEach(listadenomes)
+            }
+            else if (nome1.length < 4 && peso1 >= 100) {
+                msg.innerHTML = `<p> Peça <strong>NÃO</strong> cadastrada. Motivo: nome inválido! </p>`
+            }
+            else if (nome1.length >= 4 && peso1 < 100){
+                msg.innerHTML = `<p> Peça <strong>NÃO</strong> cadastrada. Motivo: peso inválido! </p>`
+            }
+            else{
+                msg.innerHTML = `<p> Peça <strong>NÃO</strong> cadastrada. Motivo: nome e peso inválido! </p>`
+            }
+
+        }
+
+
+    </script>
+</body>
+
+</html>

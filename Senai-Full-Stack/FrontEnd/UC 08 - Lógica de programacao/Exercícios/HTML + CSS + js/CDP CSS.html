@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+    <h1>CADASTRO DE PEÇAS</h1>
+    </header>
+ <div id="inputs">
+    <p>Nome <input type="text" value="" id="txtnome" class="caixa"></p>
+    <p>Peso <input type="number" value="" id="txtpeso" class="caixa"></p>
+    <input type="button" value="Cadastrar" id="botao"> 
+ </div>
+ /br
+<div id="res">
+    O nome deve possuir pelo menos <b>3 caracteres</b> e o peso deve ser de <b>100g (min)</b>
+</div> 
+/br
+<div id="lista">Lista De Peças</div>
+    <!------------------------------------------------------------------------------------------------------------------>
+    <script>
+        var but = document.getElementById("botao") //variavel que diz se o botao foi apertado ou nao
+        var pecas = []
+        var pesos = []
+        but.onclick = function () { // funcao acionada pelo click no botao de cadastro 
+            var nome = txtnome.value
+            var txtpeso = document.getElementById("txtpeso")
+            var peso = Number(txtpeso.value)
+            var res = document.querySelector("div#res")
+            if (nome.length > 3 && peso >= 100) {
+                if (pecas.length <= 9) {
+                    res.innerHTML = ` <p>A peça <strong>${nome}</strong> foi cadastrada com <strong>SUCESSO</strong>.</p>` // mensagens de erro ou sucesso
+                    pecas.push(nome) // funcao que envia o nome digitado para o array de pecas
+                    pesos.push(peso)
+                    lista.innerHTML = `<h1>Lista de Peças</h1>`
+                    function listadepecas(element, index, array) { // funcao chamada pelo foreach e usada em cada elemento
+                        lista.innerHTML += `<p>${element} [${index + 1}] ${pesos[index]} gramas</p>`
+                    } pecas.forEach(listadepecas) //foreach chamando uma funcao que sera executada para cada elemento do array
+
+                }
+                else {
+                    res.innerHTML = ` <p>A peça ${nome} <strong>NÃO</strong> pode ser cadastrada! Número de peças limite alcançada (10).</p>`
+                }
+
+            } else if (!(nome.length > 3) && !(peso >= 100)) {
+                res.innerHTML = ` <p>A peça ${nome} <strong>NÃO</strong> pode ser cadastrada! Nome inválido(min: 4 caracteres) e peso insuficiente (min: 100 gramas).</p>`
+
+            } else if (!(nome.length > 3)) {
+                res.innerHTML = ` <p>A peça ${nome} <strong>NÃO</strong> pode ser cadastrada! Nome inválido(min: 4 caracteres).`
+            } else {
+                res.innerHTML = ` <p>A peça ${nome} <strong>NÃO</strong> pode ser cadastrada! Peso insuficiente (min: 100 gramas).</p>`
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+
+</html>

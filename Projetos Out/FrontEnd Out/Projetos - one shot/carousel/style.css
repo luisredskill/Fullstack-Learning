@@ -1,0 +1,131 @@
+body{
+    margin:0px;
+    padding:0;
+    background-color: #eef8ff;
+    height: 1128px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.box{
+    width: 300px;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 25px; /** o comando overflow especifica se o elemento vai ser cortado, exibido com barras ou transbordar o elemento pai**/
+    /*position: absolute; /** posiciona um elemento em relação ao seu ancestral mais próximo em vez de relacionado a viewport, caso não tenha nenhum ancestral ele utiliza o body
+    left: 50%;  utilizado junto com o position absolute, especifica quando a direita o objeto estará em relação ao tamanho do pai
+    top:50%;
+    transform: translate(-50%,-50%);  desloca um elemento em relação a ele mesmo no eixo x e y */
+    
+}
+
+
+.slide-img{
+    height: 450px;
+    position: relative;
+}
+
+.slide-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /*especifica como um objeto vai se encaixar dentro da caixa estabelecida para o elemento*/
+    box-sizing: border-box; /* como a altura e a largura se comportarao, neste caso nao passarao da borda da caixa*/
+}
+
+
+
+.detail-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-family: calibri;
+}
+
+
+
+.type{
+    display:flex;
+    flex-direction: column;
+}
+
+.type a {
+    color: #222222;
+    margin: 5px 0px; /*edita margem superior e inferior/esquer e direita*/
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    padding-right: 8px;
+}
+
+
+
+.type span {
+    color:rgba(26,26,26,0.5)
+}
+
+.price{
+    color: #333333;
+    font-weight: 600;
+    font-size: 1.1rem;
+    font-family: poppins;
+    letter-spacing: 0.5px;
+}
+
+.overlay{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    height: 100%;
+    background-color:rgba(92,95,236,0.6);/*rgba define as 3 cores e a opacidade no dinal que pode ir de 0 a 1, onde 0 e totalmente transparente*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buy-bnt{
+    width: 160px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    color: #252525;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: calibri;
+    border-radius: 20px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    
+}
+
+.buy-bnt:hover{
+    color: #FFFFFF;
+    background-color: #f15fa3;
+    transition: all ease 0.3s;
+     /*permite fazer transicoes suaves entre elementos do css, ease especifica uma transicao com um comeco lento e mais rapida no final, all seleciona todos os elementos de transition*/
+}
+
+.overlay{
+    visibility: hidden;
+}
+
+.slide-img:hover .overlay{
+    visibility: visible;
+    animation:fade 0.5s; /*seta uma animacao de fade que durara 0.5 segundos*/
+}
+
+@keyframes fade{ /*seta o valor inicial e final da opacidade da animacao*/
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}

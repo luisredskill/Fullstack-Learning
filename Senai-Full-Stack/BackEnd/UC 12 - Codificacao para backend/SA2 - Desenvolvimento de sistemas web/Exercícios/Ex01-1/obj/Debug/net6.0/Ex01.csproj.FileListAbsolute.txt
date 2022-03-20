@@ -1,0 +1,15 @@
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\bin\Debug\net6.0\Ex01.exe
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\bin\Debug\net6.0\Ex01.deps.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\bin\Debug\net6.0\Ex01.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\bin\Debug\net6.0\Ex01.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.pdb
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Exercícios\Ex01\obj\Debug\net6.0\ref\Ex01.dll

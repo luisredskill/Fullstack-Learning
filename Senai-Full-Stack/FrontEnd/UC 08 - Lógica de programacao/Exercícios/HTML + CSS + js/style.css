@@ -1,0 +1,61 @@
+body{
+background-color: rgb(158, 158, 158);
+font: normal 15pt Arial;
+}
+header{
+text-align: center;
+color: black; 
+}
+
+#botao{
+    border: 2px solid rgb(145, 145, 145);
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 6px 10px;
+    text-decoration: none;
+    box-shadow: 1px 1px 3px black;
+}
+
+.caixa{
+    border: 2px solid rgb(145, 145, 145);
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px black;
+}
+
+#res{
+text-align: center;
+
+}
+
+#titulo{
+    text-align: center;
+    
+}
+#lista{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+}
+
+#inputs{
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+font-family: Verdana;
+width: 300px;
+padding: 5px;
+text-align: center;
+margin: auto;
+box-shadow: 3px 3px 10px black;
+}
+
+#txtnome{
+    margin-right: 3%;
+}

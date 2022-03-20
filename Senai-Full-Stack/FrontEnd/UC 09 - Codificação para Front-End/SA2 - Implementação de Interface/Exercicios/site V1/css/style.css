@@ -1,0 +1,543 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap'); /* importa fontes do google fonts pelo link @import*/
+*{         /* "*" é usado para editar todos os elementos presentes no html  */
+margin: 0;
+padding: 0;
+box-sizing: border-box; /* garante que as medidas de altura e largura de um elementoo vao ser seguidas - sempre matem os elementos dentro da caixa criada*/
+/*content box e a configuracao base e ela acompanha o padding e aumenta o tamanhos dos elementos*/
+}
+
+body{
+    font-family: "Open Sans";
+    font-weight: 500;
+}
+
+header{
+    background-color: #121212;
+    margin-left: 0px;
+    height: 90px;
+}
+
+.containergrid{
+width: 1400px;
+margin:0 auto; /* primeiro valor e a margem vertical e o segundo a horizontal*/ /* auto deixa a mesma medida de margem pra direita e pra esquerda*/
+}
+.posicionamento{
+    height: 100%; /*diz que essa div vai ter 100% da altura do elemento pai <header>*/
+    display:flex;
+    justify-content: space-between; /* distribui o espacamento e encosta os elementos nas laterais*/
+    /*flex-direction troca a direcao do flex espacando os elementos de forma vertical*/
+    align-items: center;
+}
+
+.area_de_login{
+    display: flex;
+    width: 260px;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.buscador{
+    height: 40px;
+    width: 550px;
+    border-radius: 15px;
+    background-color: #F5F0F5 ;
+    display: flex;
+    
+}
+
+
+#texto{
+   width: 80%;
+   height: 80%;
+   display: flex;
+   margin:auto;
+   margin-top: 5px;
+   border:none;
+   outline: none;
+   background: none;
+}
+#btn{
+cursor: pointer;
+}
+
+
+  
+   
+   
+   
+   
+   
+   
+    
+  
+
+.botoes_login{
+    margin: auto;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    width: 1400px;
+    height: 30px;
+}
+
+.containerdepartamentos{
+    height: 30px;
+    margin-left: 0px;
+    background-color: #0D25BD;
+}
+
+.menu a { /*seleciona uma classe e apenas os elementos especificos dentro dela, no caso, os elementos a*/
+color: azure; /* muda a cor da fonte*/
+text-decoration: none; /* retira os sublinhados */
+text-transform: uppercase; /*deixa a letra em maiuscula*/
+font-family: "Open Sans"; /* seleciona a fonte*/
+font-size: 20px;
+}
+
+body {
+    background-color: #00C1F7;
+}
+
+.banner{
+    background-image: url(../img/Prancheta_8.png);
+    height: 450px;
+    width: 1400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.itens_do_banner{
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.texto-banner{
+    width: 400px;
+    text-align: center;
+}
+/*-------------------------------------------- MAIS VENDIDOS -------------------------------------*/
+
+.sec1 {
+    height: 560;
+    background-color: #F5F0F5;
+}
+
+.insec1_1{
+    height: 60px; 
+    background-color: #0D25BD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intext1_1{
+    font-family: "Open Sans";
+    font-weight: bolder;
+    text-shadow: 3px 3px 10px black;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.insec1_2{
+  height: 500px;
+  width: 100%;
+}
+
+
+.items1 {
+    margin-top: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.insec1_2_2{
+    margin-top: 36px;
+    text-transform: uppercase;
+    font-size: 15pt;
+    font-weight: 900;
+    font-family: "Open Sans";
+    display: flex;
+    justify-content: end;
+    padding-right: 55px;
+}
+
+/*______________________________ PC GAMER - SEC 2 ______________________________*/
+
+.sec2 {
+    height: 610;
+    background-color: #F5F0F5;
+}
+
+/*==================== Titulo "PC Gamer + Barra" - 2_1 ====================*/
+
+.sec2_1{
+    height: 60px; /*tamanho do container*/
+    background-color: #0D25BD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text2_1{
+    font-family: "Open Sans";
+    font-weight: bolder;
+    text-shadow: 3px 3px 10px black;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+}
+
+/*==================== Texto + Seletores + Produtos + Texto 2_2 ====================*/
+
+/*------------- Texto + Seletores --------------*/
+.sec2_2{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.alinhamento2_2{
+    margin-right: 10px;
+}
+.text2_2_1{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 25px;
+    padding-right: 10px;
+    font-family: "Open Sans";
+    }
+.seletores2_2{
+    height: 35px;
+    width: 250px;
+    background-color: #121212;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text2_2_2{
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bolder;
+    padding: 5px;
+};
+
+/*------------- Itens 2_3 --------------*/
+
+.sec2_3{
+    display: flex;
+    align-items: center;
+}
+
+
+.items2_3 {
+    margin-top: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+/*------------- Link (Monte Seu PC) 2_4 --------------*/
+
+.sec2_4{
+    margin-top: 36px;
+    text-transform: uppercase;
+    font-size: 15pt;
+    font-weight: 900;
+    font-family: "Open Sans";
+    display: flex;
+    justify-content: end;
+    padding-right: 55px;
+}
+
+/*______________________________ BANNERS - SEC 3 ______________________________*/
+
+.sec3{
+    height: 300px;
+    background-color: #F5F0F5;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#banner2{
+    margin-top: 33px;
+}
+
+/*______________________________ JOGOS - SEC 4 ______________________________*/
+
+.sec4 {
+    height: 1045;
+    background-color: #F5F0F5;
+}
+
+/*==================== Titulo "PC Gamer + Barra" - 4_1 ====================*/
+
+.sec4_1{
+    height: 95px; /*tamanho do container*/
+    background-color: #0D25BD;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text4_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo4{
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    font-weight: bolder;
+    text-shadow: 3px 3px 10px black;
+    color: white;
+    font-size: 35px;
+}
+
+#subtitulo4{
+    font-family: "Open Sans";
+    font-weight: bolder;
+    text-shadow: 3px 3px 10px black;
+    color: white;
+    font-size: 25px;
+}
+
+/*==================== Texto + Seletores + Produtos + Texto 2_2 ====================*/
+
+/*------------- Texto + Seletores --------------*/
+.sec4_2{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.alinhamento4_2{
+    margin-right: 10px;
+}
+
+.seletores4_2{
+    height: 46px;
+    background-color: #121212;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sec4_2 a{
+    text-decoration: none;
+}
+.text4_2_2{
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bolder;
+    padding: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/*------------- Itens 4_3 --------------*/
+
+.sec4_3{
+    display: flex;
+    align-items: center;
+}
+
+
+.items4_3 {
+    margin-top: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+/*------------- Itens 4_4 --------------*/
+
+.sec4_4{
+    display: flex;
+    align-items: center;
+}
+
+
+.items4_4 {
+    margin-top: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+/*------------- Clique aqui 4_5 --------------*/
+.sec4_5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.sec4_5 a{
+    text-decoration: none;
+}
+#text4_5_1{
+font-weight: bolder;
+font-family: "Open Sans";
+font-size: 22px;
+text-shadow: 3px 3px 10px black;
+margin-bottom: 15px;
+}
+#text4_5_2{
+    font-family: "Open Sans";
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    height: 30px;
+    padding: 3px;
+    font: bolder;
+    margin-left: 10px;
+    text-shadow: 3px 3px 10px black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+/*______________________________ Rodape - SEC 5 ______________________________*/
+/*==================== Colunas - 5_1 ====================*/
+
+.sec5{
+    font-family: "Open Sans";
+    height: 300px;
+    background-color: #00C1F7;
+    font-weight: bolder;
+    color: #F5F0F5;
+}
+
+.alinhamento5{
+    display: flex;
+}
+
+.sec5_1{
+    width: 915px;
+    
+    display: flex;
+    
+    margin-left: 5px;
+    justify-content: space-between;
+}
+
+.colum5{
+    
+}
+
+#colunadivisora{
+    margin-top: 10px;
+}
+
+/*==================== direita rodape - 5_2 ====================*/
+.sec5_2{
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bolder;
+    width: 490px;
+    
+}
+
+.sec5_2_1{
+    width: 440px;
+    font-family: "Open Sans";
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    
+}
+
+#newsletter{
+font-size: 22px;
+
+}
+
+#receba{
+    display: flex;
+    font-size: 14px;
+    width: 290px;
+}
+#emailalinhamento5{
+    width: 450px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    background-color: #F5F0F5;
+}
+#email5{
+    width: 430px;
+    height: 25px;
+    border: none;
+    outline: none;
+   background: none;
+}
+.sec5_2_2{
+   
+   display: flex;
+}
+
+.sec5_2_2_1{
+    width: 230px;
+    margin-left: 10px;
+    
+}
+#receba2{
+    display: flex;
+    font-size: 14px;
+    width: 200px; 
+    padding-left: 5px;
+}
+.alinhamento5_1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#telefone{
+    font-size: 22px;
+    padding-right: 5px;
+    }
+    #telefone2{
+        display: flex;
+        font-size: 14px;
+        width: 300px;
+        padding-left: 5px; 
+    }
+.social5{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.redes5{
+    padding-top: 10px;
+    
+}
+
+.redes5 img{
+    padding: 2px;
+}
+    

@@ -1,0 +1,14 @@
+fontawesome.com = icones gratis
+pixabay = imagens sem direitos autorais
+pexels = imagens sem direitos autorais
+w3school = tutoriais e aulas de html css e javascript
+tinypng - reduz tamanho das imagens
+https://dribbble.com/ - layout de sites para treinar e copiar
+
+Live server
+C# - microsoft
+C# Extensions - jchannon
+C# snippets - Jorge Serrano
+C# XML Documentation Comments - Keisuke Kato
+Rainbow Brackets - 2agua
+.
