@@ -1,5 +1,4 @@
 # Fullstack-Learning
------------------------------------------------------------------
 
 - _*Curso em vídeo*_ - Iniciando no Javascript.
 
