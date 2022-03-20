@@ -1,5 +1,5 @@
-#Unidades Curriculares do curso de programação Full Stack Senai e suas descrições 
+# Unidades Curriculares do curso de programação Full Stack Senai e suas descrições.
 
-- Curso em video - Conteudo aprendido pratica de introdução ao HTML, CSS e Javascript.
+- _*Projetos Out*_ - Projetos one-shot de programação.
 
-- Senai - Unidades Curriculares aprendidas durante o curso
+- _*Senai*_ - Unidades Curriculares aprendidas durante o curso
