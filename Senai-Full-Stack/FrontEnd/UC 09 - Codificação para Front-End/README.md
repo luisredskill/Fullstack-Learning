@@ -4,3 +4,5 @@
 
 - SA2 - Implementação de Interface - Implementação HTML e CSS, posicionamento de elementos e edição visual.
 
+- SA3 - FrameWorks - Projetos Angular.
+
