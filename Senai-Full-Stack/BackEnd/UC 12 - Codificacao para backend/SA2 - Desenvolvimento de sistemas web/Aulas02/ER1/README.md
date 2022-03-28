@@ -40,6 +40,8 @@ Diagrama de classes contendo os tipos de herança, privacidade, etc.
 PessoaJurídica ➝ Pessoa  
 PessoaFísica ➝ Pessoa
 
+- _**Classes abstratas**_ - A classe abstrata é representada na modelagem com o seu nome em _itálico_.
+
 
 
 
