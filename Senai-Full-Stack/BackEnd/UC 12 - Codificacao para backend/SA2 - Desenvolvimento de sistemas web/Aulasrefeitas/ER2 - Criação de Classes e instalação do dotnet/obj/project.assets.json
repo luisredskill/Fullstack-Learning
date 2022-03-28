@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do .NET (C#)\\ER2 - Criação de Classes e instalação do .NET (C#).csproj",
-      "projectName": "ER2 - Criação de Classes e instalação do .NET (C#)",
-      "projectPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do .NET (C#)\\ER2 - Criação de Classes e instalação do .NET (C#).csproj",
+      "projectUniqueName": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do dotnet\\ER2 - Criação de Classes e instalação do dotnet.csproj",
+      "projectName": "ER2 - Criação de Classes e instalação do dotnet",
+      "projectPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do dotnet\\ER2 - Criação de Classes e instalação do dotnet.csproj",
       "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
-      "outputPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do .NET (C#)\\obj\\",
+      "outputPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA2 - Desenvolvimento de sistemas web\\Aulasrefeitas\\ER2 - Criação de Classes e instalação do dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config"

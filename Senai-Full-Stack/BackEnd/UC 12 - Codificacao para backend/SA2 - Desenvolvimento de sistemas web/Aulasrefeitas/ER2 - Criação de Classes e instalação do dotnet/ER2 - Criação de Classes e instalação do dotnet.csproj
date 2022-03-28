@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>ER2___Criação_de_Classes_e_instalação_do_.NET__C__</RootNamespace>
+    <RootNamespace>ER2___Criação_de_Classes_e_instalação_do_dotnet</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

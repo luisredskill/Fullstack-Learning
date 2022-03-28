@@ -36,8 +36,23 @@
 
 ### Criação de Classes e Interfaces 
 
-- _**Botão direito na pasta ou diretório**_➝_**New C# Class/Interface**_ 
+- _**Botão direito na pasta ou diretório**_ ➝ _**New C# Class/Interface**_ 
 
+----------------------------------------------------------------------
+
+### Criação de Métodos
+
+A criação de métodos é feita na seguinte ordem:  
+
+- _**tipo de retorno**_  _**nomeDaFuncao(tipoDeInput nomeDoInput)**_  
+
+Exemplo de função:
+
+float PagarImposto(float rendimento)
+
+Esta função **retorna** um float, tem como **nome** PagarImposto e utiliza como **argumento** um tipo float.  
+
+----------------------------------------------------------------------
 
 
 
