@@ -4,20 +4,15 @@
 
 ### Programa utilizado
 
--_**Draw.io**_
-
--------------------------------------------------------------------
-
-### Programa utilizado
-
--_**Draw.io**_
+- _**Draw.io**_
 
 -------------------------------------------------------------------
 
 ### Novo Arquivo
 
--**Create new file**
--**Opção UML**
+- **Create new file**
+
+- **Opção UML**
 -------------------------------------------------------------------
 
 ### ER1 - Criar a modelagem do sistema aplicando o diagrama UML.
