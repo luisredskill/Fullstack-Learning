@@ -37,7 +37,7 @@ Diagrama de classes contendo os tipos de herança, privacidade, etc.
 
 - _**direção da seta**_ - A seta sempre aponta para a classe herdada e/ou abstrata, ou seja, vai do herdeiro em direção ao herdado. Exemplo:
 
-PessoaJurídica ➝ Pessoa
+PessoaJurídica ➝ Pessoa  
 PessoaFísica ➝ Pessoa
 
 
