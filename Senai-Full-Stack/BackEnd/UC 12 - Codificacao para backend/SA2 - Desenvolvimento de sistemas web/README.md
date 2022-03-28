@@ -1,24 +1,16 @@
-# Conteúdo de suporte de comandos SA2 - Desenvolvimento de sistemas web
--------------------------------------------------------------------------------
+# SA2 - Desenvolvimento de sistemas web
 
-## C# 
 
-### Comandos
+## Guia 
 
-- _**Criar**_ "dotnet new" ou "dotnet new console"
+- Aulas - Material feito durante a primeira vez que as aulas foram feitas.
 
-- _**Rodar>**_ - dotnet run
+- Aulas02 - Revisão do conteúdo + anotações importantes
+
+- Exercícios - Exercícios propostos e feitos pelo professor 
+
+    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-
-
-
-
-
-
-
-
 
 
 

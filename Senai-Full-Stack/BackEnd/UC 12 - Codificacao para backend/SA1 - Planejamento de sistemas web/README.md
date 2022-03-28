@@ -1,6 +1,4 @@
 # SA1 - Planejamento de Sistemas web
--------------------------------------------------------------------------------
-### Atividades
 
 - Atividade 01 - Requisitos de Front-end, Requisitos Funcionais e Requisitos do Back-end.
 
