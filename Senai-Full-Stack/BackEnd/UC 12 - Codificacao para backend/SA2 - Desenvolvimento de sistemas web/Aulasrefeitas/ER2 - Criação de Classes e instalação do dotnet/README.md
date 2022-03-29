@@ -61,12 +61,12 @@ A herança entre classes ou de interfaces para classes é feita na frente da cla
 using ER2___Criação_de_Classes_e_instalação_do_dotnet.Interfaces;
 
 namespace ER2___Criação_de_Classes_e_instalação_do_dotnet.Classes
-{
-    public class Pessoa : IPessoa 
-    {
-        
-    }
-}
+{    
+    public class Pessoa : IPessoa   
+   {  
+    
+   }  
+}  
 
 
 
