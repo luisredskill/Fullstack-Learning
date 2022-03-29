@@ -68,6 +68,51 @@ namespace _**suaPasta.Classes**_
    }  
 }  
 
+Note que se o arquivo estiver em outra pasta que não seja a raiz é necessário o uso do **using** para indicar a pasta em que a classe **herdada**.  
+
+Quando herdamos **CLASSES** e **INTERFACES** ao mesmo tempo, a ordem é primeiro herdar das **classes** e, só depois, herdar das interfaces.
+
+----------------------------------------------------------------------
+
+### Criação de atributos
+
+A criação de atributos é feita dentro de uma **classe** de forma a identificar, em ordem, o **modificador de acesso**, o tipo da **variável** e o **nome**. Exemplo:    
+
+public string ?nome { get; set; }  
+
+Note que se a variável começar vazia é necessário declarar que ela pode ser vazia com um ?.  
+
+**Atalho** do **C# Snippets** > prop, prop faz toda a estrutura de atributo sozinho.
+
+----------------------------------------------------------------------
+
+### Abstração ou Superclasse
+
+A abstração é feita **entre** o **modificador de acesso** e o nome **class**. Exemplo:  
+
+public class Pessoa : IPessoa  
+
+se torna:  
+
+public **abstract** class Pessoa : IPessoa  
+
+Isto torna **impossível** instanciar a classe pessoa!!!
+
+----------------------------------------------------------------------
+
+### Instanciando classes
+
+O instanciamento é feito a partir da seguinte forma:  
+
+Tipo nome = new tipo();  
+
+Exemplo:  
+
+PessoaFisica novaPf = new PessoaFisica();
+
+
+
+
 
 
 
