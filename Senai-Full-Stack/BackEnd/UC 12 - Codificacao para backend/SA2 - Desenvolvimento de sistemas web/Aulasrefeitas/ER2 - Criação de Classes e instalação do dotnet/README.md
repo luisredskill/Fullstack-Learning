@@ -58,11 +58,11 @@ Esta função **retorna** um float, tem como **nome** PagarImposto e utiliza com
 
 A herança entre classes ou de interfaces para classes é feita na frente da classe, exemplo:
 
-using suaPasta.Interfaces;
+using _**suaPasta.Interfaces**_;
 
-namespace suaPasta.Classes  
+namespace _**suaPasta.Classes**_  
 {    
-	public class suaClasse : suaInterface/suaClasse   
+	public class suaClasse : _**suaInterface/suaClasse**_    
 	{  
     
    }  
