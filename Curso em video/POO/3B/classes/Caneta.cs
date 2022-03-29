@@ -4,12 +4,12 @@ namespace POO.classes
     {
         public string? modelo;
         public string? cor;
-        public float? ponta;
-        public int? carga;
-        public bool tampado;
+        private float? ponta;
+        protected int? carga;
+        private bool tampado;
 
 
-        private void Tampar()
+       public void Tampar()
         {
             this.tampado = true;
         }
@@ -26,7 +26,7 @@ namespace POO.classes
 
             }
         }
-        private void destampar()
+        public void destampar()
         {
             this.tampado = false;
         }

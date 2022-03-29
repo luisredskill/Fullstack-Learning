@@ -1,0 +1,35 @@
+Classe - ContaBanco
+
+atributos
+
++ numConta - numero da conta
+# tipo - corrente poupanca (cc ou cp) aceita apenas 2 caracteres
+- dono - nome do dono
+- saldo - quantidade de dinheiro que tem na conta
+- status - se ela esta aberta ou se esta fechada
+
+metodos 
+
++ abrirConta()
++ fecharConta()
++ depositar()
++ sacar()
++ pagarMensal() - pagar mensalidade da conta
+
+metodo construtor - sempre que uma nova conta for criada, a conta iniciara fechada e o saldo definido como 0.
+
+(cc ou cp) aceita apenas 2 caracteres
+abrir e fechar conta sao booleanos
+fechar conta - o dono da conta nao pode ter dinheiro la dentro nem debito
+Depositar a conta tem que estar aberta
+Sacar a conta tem que estar aberta e tem que ter saldo suficiente
+pagarMensalidade cobra direto do saldo apenas uma vez
+
+se abrir uma conta corrente +50
+se abrir uma conta poupanca +150
+
+mensalidade conta corrente 12 reais
+mensalidade conta poupanca 20 reais
+
+
+

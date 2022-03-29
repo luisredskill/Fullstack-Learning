@@ -1,0 +1,15 @@
+D:\FullStack\Curso em video\POO\5B\bin\Debug\net6.0\5B.exe
+D:\FullStack\Curso em video\POO\5B\bin\Debug\net6.0\5B.deps.json
+D:\FullStack\Curso em video\POO\5B\bin\Debug\net6.0\5B.runtimeconfig.json
+D:\FullStack\Curso em video\POO\5B\bin\Debug\net6.0\5B.dll
+D:\FullStack\Curso em video\POO\5B\bin\Debug\net6.0\5B.pdb
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.csproj.AssemblyReference.cache
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.AssemblyInfoInputs.cache
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.AssemblyInfo.cs
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.csproj.CoreCompileInputs.cache
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.dll
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\refint\5B.dll
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.pdb
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\5B.genruntimeconfig.cache
+D:\FullStack\Curso em video\POO\5B\obj\Debug\net6.0\ref\5B.dll
