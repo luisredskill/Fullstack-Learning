@@ -1,0 +1,15 @@
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\bin\Debug\net6.0\ER2.exe
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\bin\Debug\net6.0\ER2.deps.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\bin\Debug\net6.0\ER2.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\bin\Debug\net6.0\ER2.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\bin\Debug\net6.0\ER2.pdb
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\refint\ER2.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.pdb
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ER2.genruntimeconfig.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA2 - Desenvolvimento de sistemas web\Aulasrefeitas\ER2\obj\Debug\net6.0\ref\ER2.dll

@@ -7,3 +7,5 @@ novaPf.nome = "Luis";
 Console.Clear();
 Console.WriteLine($"Nome: {nome}");
 
+novaPf.ValidarDataNascimento();
+
