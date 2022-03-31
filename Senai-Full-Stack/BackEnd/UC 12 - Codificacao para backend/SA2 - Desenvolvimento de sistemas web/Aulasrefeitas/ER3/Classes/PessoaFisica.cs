@@ -12,12 +12,11 @@ namespace ER2.Classes
         
         public bool ValidarDataNascimento(DateTime dataNasc)
         {
-            DateTime dataAtual = DateTime.Now;
-            TimeSpan subtração = (dataAtual - dataNasc);
-            double anos = (dataAtual - dataNasc).TotalDays; 
+            DateTime dataAtual = DateTime.Today;
+            double idade = (dataAtual - dataNasc).TotalDays/365.25;
             
 
-            Console.WriteLine($"TimeSpan: {subtração} double: {anos}");
+            Console.WriteLine($"Número de Dias: {idade}");
             return true;
             
         }
