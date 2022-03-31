@@ -14,12 +14,13 @@ Acessar a data do sistema se da pela criação de uma variável que irá armazen
 
 Exemplo: 
 
+```
   public void ValidarDataNascimento()  
         {  
             DateTime dataAtual = DateTime.Today;  
             Console.WriteLine($"{dataAtual}");          
         }  
-
+```
 
 ----------------------------------------------------------------------
 
