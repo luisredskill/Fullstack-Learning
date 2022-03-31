@@ -2,6 +2,6 @@ namespace ER2.Interfaces
 {
     public interface IPessoaFisica
     {
-         bool ValidarDataNascimento();
+         bool ValidarDataNascimento(DateTime dataNasc);
     }
 }

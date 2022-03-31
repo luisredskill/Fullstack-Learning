@@ -10,10 +10,16 @@ namespace ER2.Classes
         
         
         
-        public void ValidarDataNascimento()
+        public bool ValidarDataNascimento(DateTime dataNasc)
         {
-            DateTime dataAtual = DateTime.Today;
-            Console.WriteLine($"{dataAtual}");        
+            DateTime dataAtual = DateTime.Now;
+            TimeSpan subtração = (dataAtual - dataNasc);
+            double anos = (dataAtual - dataNasc).TotalDays; 
+            
+
+            Console.WriteLine($"TimeSpan: {subtração} double: {anos}");
+            return true;
+            
         }
 
         public override float PagarImposto(float rendimento){
