@@ -1,0 +1,12 @@
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.exe
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\web.config
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.deps.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.runtimeconfig.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.pdb
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 12 - Codificacao para backend\SA3 - Implementação de sistemas web\Front e Back\ChapterBackEnd\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

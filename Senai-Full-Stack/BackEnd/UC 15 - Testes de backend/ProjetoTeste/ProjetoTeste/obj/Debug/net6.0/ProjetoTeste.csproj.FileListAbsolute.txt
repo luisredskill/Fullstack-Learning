@@ -1,0 +1,12 @@
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.deps.json
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.pdb
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.AssemblyReference.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfo.cs
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\refint\ProjetoTeste.dll
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.pdb
+D:\FullStack\Senai-Full-Stack\BackEnd\UC 15 - Testes de backend\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ref\ProjetoTeste.dll

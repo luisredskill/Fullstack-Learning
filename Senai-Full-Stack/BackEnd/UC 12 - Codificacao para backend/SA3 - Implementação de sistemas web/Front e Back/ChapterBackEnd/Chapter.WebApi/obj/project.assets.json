@@ -139,19 +139,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
+    "C:\\Users\\luisr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
+      "projectUniqueName": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA3 - Implementação de sistemas web\\Front e Back\\ChapterBackEnd\\Chapter.WebApi\\Chapter.WebApi.csproj",
       "projectName": "Chapter.WebApi",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\obj\\",
+      "projectPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA3 - Implementação de sistemas web\\Front e Back\\ChapterBackEnd\\Chapter.WebApi\\Chapter.WebApi.csproj",
+      "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
+      "outputPath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA3 - Implementação de sistemas web\\Front e Back\\ChapterBackEnd\\Chapter.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -200,6 +200,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.15, 5.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -208,7 +214,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

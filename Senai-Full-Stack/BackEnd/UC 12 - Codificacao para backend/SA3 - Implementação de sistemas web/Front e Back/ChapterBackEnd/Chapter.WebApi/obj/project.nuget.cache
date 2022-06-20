@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "IaAbJioZyE9Q/5ER4LuqLRoqlBqwXDxji9fFlj6Iy0N9erlySui0QN+bEncpTYWxzCznyEsk6W5ii+sdsi95TQ==",
+  "dgSpecHash": "5kieEOIxG9Dd78tFxv4muX54SI0hUWms3/TnI6fF59tQ99v4iiOpaCjfUveoHzON2H8+jdXIu9+a7MLYmi3t8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
+  "projectFilePath": "D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC 12 - Codificacao para backend\\SA3 - Implementação de sistemas web\\Front e Back\\ChapterBackEnd\\Chapter.WebApi\\Chapter.WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+    "C:\\Users\\luisr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luisr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\luisr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\luisr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\luisr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

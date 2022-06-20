@@ -2,125 +2,117 @@
 
 ##  Criação de Classes e instalação do .NET (C#)
 
-### .NET
+### Sintaxe
  
-É uma ferramenta open-source de desenvolvimento para construção de aplicações. Necessária para programar em C#.
+O SQL é uma linguagem case-insensitive. Isso significa que caracteres em caixa alta e em caixa baixa são tratados de modo diferente. Para consultar todos os dados com todas as colunas da tabela de livros, por exemplo, podemos fazer da seguinte forma:
 
-- _**instalação**_ - https://dotnet.microsoft.com/en-us/download
+SELECT * FROM Livros ou select * from Livros
 
-- _**sdk**_ - Utilizado para desenvolver
+O comando SQL SELECT é lido da mesma maneira que select. No entanto, é uma boa prática destacar o comando SQL em letras maiúsculas, assim como iniciar o nome dos elementos com maiúscula, assim:
 
-- _**runtime**_ - Executa aplicações desenvolvidas em .NET
+SELECT * FROM Livros
+
+De modo geral, os comandos SQL são basicamente a ação seguido do nome do elemento que sofre a ação. Você pode finalizar a linha de comando com um ponto e vírgula e colocar o elemento entre colchetes, mas ambos são opcionais. Então:
+
+SELECT * FROM Livros é lido da mesma maneira que SELECT * FROM [Livros];
+
+Em alguns comandos, como o CREATE, precisamos abrir parênteses para passar os parâmetros. Dentro dos parênteses, usamos vírgula para separar os elementos. Uma boa prática é colocar a vírgula no início da linha, para melhor leitura. Vejam os exemplos a seguir, ambos corretos:
+
+Vírgula entre os elementos, no final da linha
+
+create table nome_tabela (
+coluna_a tipo,
+coluna_b tipo,
+coluna_c tipo
+)
+
+Vírgula entre os elementos, no início da linha
+
+create table nome_tabela (
+coluna_a tipo
+,coluna_b tipo
+,coluna_c tipo
+)
 
 ----------------------------------------------------------------------
 
-### Visual Studio Code (C# extensions)
+### Linguagem de definição de dados - **DDL**
 
-- _**C#**_ - Microsoft
-- _**C# Extensions**_ - jchannon
-- _**C# Snippets**_ - Jorge Serrano
-- _**C# XML Documentation Comments**_ - Keisuke Kato
-- _**Rainbow Brackets**_ - 2gua
+Fornece um conjunto de comandos para criar tabelas, chaves, alterar e apagar estruturas de tabelas (create, alter, drop).
 
 ----------------------------------------------------------------------
 
-### Comandos .NET
+### Linguagem de manipulação de dados - **DDL**
  
-- _**dotnet new**_ - Da opções para criação de um projeto.
-
-- _**dotnet new console**_ - Cria um novo projeto de console(padrão das aulas).
-
-- _**dotnet run**_ - roda o código C#.
+Fornece um conjunto de comandos para realizar as manipulações dos dados armazenados (insert, update, delete).
 
 ----------------------------------------------------------------------
 
-### Criação de Classes e Interfaces 
+### Linguagem de consulta de dados - **DQL**
 
-- _**Botão direito na pasta ou diretório**_ ➝ _**New C# Class/Interface**_ 
-
-----------------------------------------------------------------------
-
-### Criação de Métodos
-
-A criação de métodos é feita na seguinte ordem:  
-
-- _**tipo de retorno**_  _**nomeDaFuncao(tipoDeInput nomeDoInput)**_  
-
-Exemplo de função:
-
-float PagarImposto(float rendimento)
-
-Esta função **retorna** um float, tem como **nome** PagarImposto e utiliza como **argumento** um tipo float.  
+Fornece comandos para realizar consultas (select).
 
 ----------------------------------------------------------------------
 
-### Herança
+### Linguagem de Transação de Dados - **DTL**
 
-A herança entre classes ou de interfaces para classes é feita na frente da classe, exemplo:
-
-using _**suaPasta.Interfaces**_;
-
-namespace _**suaPasta.Classes**_  
-{    
-	public class suaClasse : _**suaInterface/suaClasse**_    
-	{  
-    
-   }  
-}  
-
-Note que se o arquivo estiver em outra pasta que não seja a raiz é necessário o uso do **using** para indicar a pasta em que a classe **herdada**.  
-
-Quando herdamos **CLASSES** e **INTERFACES** ao mesmo tempo, a ordem é primeiro herdar das **classes** e, só depois, herdar das interfaces.
+Comandos para controle de transação, como BEGIN TRANSACTION, COMMIT e ROLLBACK.
 
 ----------------------------------------------------------------------
 
-### Criação de atributos
+### Linguagem de Controle de Dados - **DTL**
 
-A criação de atributos é feita dentro de uma **classe** de forma a identificar, em ordem, o **modificador de acesso**, o tipo da **variável** e o **nome**. Exemplo:    
-
-public string ?nome { get; set; }  
-
-Note que se a variável começar vazia é necessário declarar que ela pode ser vazia com um ?.  
-
-**Atalho** do **C# Snippets** > prop, prop faz toda a estrutura de atributo sozinho.
+ Comando para controle e segurança de dados, como GRANT, REVOKE, DENY.
 
 ----------------------------------------------------------------------
 
-### Abstração ou Superclasse
+### Comandos
 
-A abstração é feita **entre** o **modificador de acesso** e o nome **class**. Exemplo:  
+ **_IDENTITY_** - indica que esse atributo será preenchido automaticamente e nunca irá se repetir, ideal para o primary key. Exemplo:  
 
-public class Pessoa : IPessoa  
+	UsuarioId INT PRIMARY KEY IDENTITY
 
-se torna:  
+**_PRIMARY KEY_** - indica qual atributo vai ser a chave primária.
 
-public **abstract** class Pessoa : IPessoa  
+ **_UNIQUE_** - não permite que seja cadastrado duas informações iguais na mesma tabela, não permite que seja cadastrado dois e-mail iguais. Exemplo:
 
-Isto torna **impossível** instanciar a classe pessoa!!!
+ Email VARCHAR(100) UNIQUE  
+
+ **_NOT NULL_** - não permite que a informação fique vazia.
+
+ **_INSERT INTO_** - indica a tabela que será inserido o conteúdo ao mesmo tempo que indica que algum atributo será inserido a ela. Exemplo:  
+
+ ```
+
+ INSERT INTO TabelaA VALUES('Fernando')
+
+ ```
+
+  **_INNER JOIN_** - Faz uma intersecção entre duas tabelas trazendo só o conteúdo que é igual em ambas. Exemplo: 
+
+```
+  SELECT TabelaA.Nome, TabelaB.Nome  FROM TabelaA INNER JOIN TabelaB
+ON TabelaA.Nome = TabelaB.Nome
+```
+Neste caso, seria mostrado apenas os nomes que são idênticas na tabela A e na tabela B.
+
+**_LEFT/RIGHT JOIN_** - Faz uma intersecção entre duas tabelas trazendo o conteúdo que é igual em ambas e todo o conteúdo da tabela a esquerda ou a direita. Exemplo: 
+
+```
+  SELECT TabelaA.Nome, TabelaB.Nome  FROM TabelaA LEFT JOIN TabelaB
+ON TabelaA.Nome = TabelaB.Nome
+```
+Neste caso, seria mostrado os nomes que são idênticas na tabela A e na tabela B, além de toda a tabela A.
+
+**_FULL OUTER JOIN_** - Faz uma intersecção entre duas tabelas trazendo TODO o conteúdo de AMBAS. Exemplo:
+```
+  SELECT TabelaA.Nome, TabelaB.Nome  FROM TabelaA FULL OUTER JOIN TabelaB
+ON TabelaA.Nome = TabelaB.Nome
+```
+Neste caso, seria mostrado todo o conteúdo de ambas em uma única tabela.
+
 
 ----------------------------------------------------------------------
-
-### Instanciando classes
-
-O instanciamento é feito a partir da seguinte forma:  
-
-Tipo nome = new tipo();  
-
-Exemplo:  
-
-PessoaFisica novaPf = new PessoaFisica();
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

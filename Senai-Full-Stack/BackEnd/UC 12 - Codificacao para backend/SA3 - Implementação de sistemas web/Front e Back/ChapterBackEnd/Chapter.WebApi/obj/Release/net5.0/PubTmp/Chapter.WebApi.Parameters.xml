@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="chapter" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter\.WebApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="ChapterLuis" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\FullStack\\Senai-Full-Stack\\BackEnd\\UC\ 12\ -\ Codificacao\ para\ backend\\SA3\ -\ Implementação\ de\ sistemas\ web\\Front\ e\ Back\\ChapterBackEnd\\Chapter\.WebApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
